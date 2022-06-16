@@ -16,7 +16,7 @@
 >
 > Digitar **echo hello** para criar arquivo
 >
-> Digitar **cls** ou efetuar o comando **Ctrl + L** para limpar o terminal 
+> Digitar **cls** para limpar o terminal 
 >
 > O comando **tab** para autocompletar e **seta para cima** para selecionar comandos anteriores
 >
