@@ -1,6 +1,6 @@
-## Comandos para gerar a :key: SSH
+## Comandos para gerar a :key: SSH no GitHub
 
-#### Para irmos aos comandos, primeiro precisamos estar cientes de que as chaves SSH foram criadas para estabelecer uma conexão segura. Podendo ser pública ou privada (criptografada).
+#### Para irmos aos comandos, primeiro precisamos estar cientes de que as chaves SSH foram criadas para estabelecer uma conexão segura. Podendo ser pública ou privada.
 
 > Na aba do Windows digitar **Git Bash**
 >
